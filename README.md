@@ -1,4 +1,6 @@
-👋 Hi! I'm a Solution Architect and a Golang Software Engineer, passionate about developing and implementing complex IT solutions. My main task is designing scalable and fault-tolerant architectural solutions, as well as creating high-performance and scalable applications.
+👋 Hi! I'm a Solution Architect, Team Lead, and Golang Software Engineer with 9 years of experience developing high-loaded complex systems. My main task is designing scalable and fault-tolerant architectural solutions and creating high-performance and scalable applications.
+
+💼 I have managed and built cross-functional teams from scratch, with up to 20 direct reports, supporting legacy projects and designing new ones with the potential to grow. My main tasks include designing scalable and secure architectural solutions and creating high-performance and scalable applications.
 
 💡 I have a deep understanding of modern technologies and development standards. My experience includes microservices, web services, real-time systems, and integration with various systems and databases. I'm also familiar with AWS and Kubernetes.
 
